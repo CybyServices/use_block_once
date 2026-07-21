@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "When the player places a block, they lose the ability to place a random block.",
+    "description": "Blocks can only be used once.",
     "min_format": 112,
     "max_format": 112
   }
