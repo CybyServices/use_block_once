@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "place_block": {
+            "trigger": "minecraft:placed_block"
+        }
+    },
+    "rewards": {
+        "function": "zzz:use_block_once/player/place_block"
+    }
+}

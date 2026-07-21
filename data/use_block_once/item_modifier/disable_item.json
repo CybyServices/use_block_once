@@ -1,0 +1,25 @@
+[
+  {
+    "type": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "attribute": "block_interaction_range",
+        "id": "blockerlocker:no_building",
+        "amount": -100,
+        "operation": "add_multiplied_base",
+        "slot": "any"
+      }
+    ],
+    "replace": false
+  },
+  {
+    "type": "set_components",
+    "components": {
+      "tooltip_display": {
+        "hidden_components": [
+          "attribute_modifiers"
+        ]
+      }
+    }
+  }
+]
