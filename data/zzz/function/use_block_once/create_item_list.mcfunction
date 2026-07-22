@@ -109,6 +109,7 @@ data modify storage use_block_once:data all.enabled set value [\
 {item:"blue_wool_stairs"},\
 {item:"blue_wool"},\
 {item:"bone_block"},\
+{item:"bookshelf"},\
 {item:"brain_coral_block"},\
 {item:"brain_coral_fan"},\
 {item:"brain_coral"},\
@@ -168,6 +169,7 @@ data modify storage use_block_once:data all.enabled set value [\
 {item:"cherry_wood"},\
 {item:"chest"},\
 {item:"chipped_anvil"},\
+{item:"chiseled_bookshelf"},\
 {item:"chiseled_cinnabar"},\
 {item:"chiseled_copper"},\
 {item:"chiseled_deepslate"},\
@@ -747,6 +749,7 @@ data modify storage use_block_once:data all.enabled set value [\
 {item:"poppy"},\
 {item:"potato"},\
 {item:"potent_sulfur"},\
+{item:"powder_snow_bucket"},\
 {item:"powered_rail"},\
 {item:"prismarine_brick_slab"},\
 {item:"prismarine_brick_stairs"},\

@@ -1143,7 +1143,7 @@ data modify storage bldp:registry all.icon.item set value [\
 {id:purpur_stairs,icon:{sprite:"block/purpur_block",atlas:blocks}},\
 {id:quartz_block,icon:{sprite:"block/quartz_block_side",atlas:blocks}},\
 {id:quartz_bricks,icon:{sprite:"block/quartz_bricks",atlas:blocks}},\
-{id:quartz_pillar,icon:{sprite:"block/quartz_pillar",atlas:blocks}},\
+{id:quartz_pillar,icon:{sprite:"block/quartz_pillar_side",atlas:blocks}},\
 {id:quartz_slab,icon:{sprite:"block/quartz_block_side",atlas:blocks}},\
 {id:quartz_stairs,icon:{sprite:"block/quartz_block_side",atlas:blocks}},\
 {id:quartz,icon:{sprite:"item/quartz",atlas:items}},\
