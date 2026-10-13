@@ -1,7 +1,7 @@
 {
   "pack": {
-    "description": "Blocks can only be used once.",
-    "min_format": 112,
-    "max_format": 112
+    "description": "Blocks can only be used once. Use command in readme to reset, once a block is used you can no longer place that block or break while holding that block",
+    "min_format": 88,
+    "max_format": 88
   }
 }
